@@ -3,7 +3,7 @@
     "name": "niklesh/health-check",
     "description": "Health check bundle",
     "license": "proprietary",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
         "php": ">=7.2.5",
